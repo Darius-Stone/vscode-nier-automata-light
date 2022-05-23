@@ -1,5 +1,5 @@
 {
-  "name": "Nier: Automata Tweaked Theme",
+  "name": "Nier: Automata Tweaked",
   "type": "light",
   "colors": {
     "focusBorder": "#00000000",
@@ -66,6 +66,7 @@
     "tab.inactiveForeground": "#3D3A33",
     "tab.unfocusedActiveForeground": "#ADA893",
     "tab.unfocusedInactiveForeground": "#3D3A33",
+
     "editor.background": "#C7C3AA",
     "editor.foreground": "#3D3A33",
     "editorLineNumber.foreground": "#3D3A33",
@@ -75,8 +76,8 @@
     "editor.inactiveSelectionBackground": "#3D3A3333",
     "editor.wordHighlightBackground": "#CC65497f",
     "editor.wordHighlightStrongBackground": "#3D3A337f",
-    "editor.findMatchBackground": "#D4CEB6",
-    "editor.findMatchHighlightBackground": "#D4CEB6",
+    "editor.findMatchBackground": "#3D3A33",
+    "editor.findMatchHighlightBackground": "#CC6549",
     "editor.findRangeHighlightBackground": "#ADA893",
     "editor.hoverHighlightBackground": "#ADA893",
     "editor.lineHighlightBackground": "#ADA893",
@@ -98,6 +99,7 @@
     "editorGutter.modifiedBackground": "#CC6549",
     "editorGutter.addedBackground": "#D4CEB6",
     "editorGutter.deletedBackground": "#D4CEB6",
+    
     "diffEditor.insertedTextBackground": "#D4CEB63f",
     "diffEditor.insertedTextBorder": "#00000000",
     "diffEditor.removedTextBackground": "#D4CEB63f",
@@ -116,10 +118,11 @@
     "editorMarkerNavigation.background": "#ADA893",
     "editorMarkerNavigationError.background": "#D4CEB6",
     "editorMarkerNavigationWarning.background": "#3D3A33",
+
     "peekView.border": "#3D3A33",
     "peekViewEditor.background": "#ADA893",
     "peekViewEditorGutter.background": "#ADA893",
-    "peekViewEditor.matchHighlightBackground": "#D4CEB6",
+    "peekViewEditor.matchHighlightBackground": "#CC6549",
     "peekViewResult.background": "#ADA893",
     "peekViewResult.fileForeground": "#3D3A33",
     "peekViewResult.lineForeground": "#ADA893",
@@ -129,6 +132,7 @@
     "peekViewTitle.background": "#ADA893",
     "peekViewTitleDescription.foreground": "#ADA893",
     "peekViewTitleLabel.foreground": "#3D3A33",
+
     "merge.currentHeaderBackground": "#CC6549",
     "merge.currentContentBackground": "#CC65497f",
     "merge.incomingHeaderBackground": "#3D3A33",
@@ -179,6 +183,7 @@
     "welcomePage.buttonBackground": "#ADA893",
     "welcomePage.buttonHoverBackground": "#ADA893",
     "walkThrough.embeddedEditorBackground": "#C7C3AA",
+
     "gitDecoration.modifiedResourceForeground": "#CC6549",
     "gitDecoration.deletedResourceForeground": "#CC6549"
   }
