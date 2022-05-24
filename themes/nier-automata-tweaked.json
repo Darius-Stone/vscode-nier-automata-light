@@ -23,6 +23,7 @@
         "inputOption.activeBorder": "#0000",
         "inputOption.activeForeground": "#CC6549",
         "inputOption.hoverBackground": "#ADA893",
+
         "inputValidation.errorBackground": "#CC6549",
         "inputValidation.errorBorder": "#0000",
         "inputValidation.infoBackground": "#CC6549",
@@ -106,13 +107,19 @@
 
         "editorError.foreground": "#CC6549",
         "editorError.border": "#0000",
-        "editorWarning.foreground": "#3D3A33",
+        "editorWarning.foreground": "#CC6549",
         "editorWarning.border": "#0000",
+        "editorInfo.foreground": "#CC6549",
+        
+        "editorHint.foreground": "3D3A33",
+        "problemsErrorIcon.foreground": "#CC6549",        
+        "problemsWarningIcon.foreground": "#CC6549",
+        "problemsInfoIcon.foreground": "#CC6549",
 
         "editorGutter.background": "#C7C3AA",
         "editorGutter.modifiedBackground": "#CC6549",
-        "editorGutter.addedBackground": "#D4CEB6",
-        "editorGutter.deletedBackground": "#D4CEB6",
+        "editorGutter.addedBackground": "#ADA893",
+        "editorGutter.deletedBackground": "#ADA893",
 
         "diffEditor.insertedTextBackground": "#D4CEB63f",
         "diffEditor.insertedTextBorder": "#0000",
@@ -169,16 +176,17 @@
         "editorOverviewRuler.deletedForeground": "#0000",
         "editorOverviewRuler.bracketMatchForeground": "#0000",
 
-        "panel.background": "#3D3A33",
+        "panel.background": "#ADA893",
         "panel.border": "#0000",
         "panelTitle.activeBorder": "#0000",
-        "panelTitle.activeForeground": "#CC6549",
+        "panelTitle.activeForeground": "#3D3A33",
         "panelTitle.inactiveForeground": "#D4CEB6",
         "panelSectionHeader.background": "#53DB7E",
         "panelSectionHeader.foreground": "#DE64C7",
 
         "statusBar.background": "#3D3A33",
         "statusBar.foreground": "#C7C3AA",
+        "statusBar.border": "#0000",
         "statusBar.debuggingBackground": "#3D3A33",
         "statusBar.debuggingForeground": "#C7C3AA",
         "statusBar.noFolderBackground": "#CC6549",
@@ -187,7 +195,7 @@
         "statusBarItem.hoverBackground": "#CC6549",
         "statusBarItem.prominentBackground": "#CC6549",
         "statusBarItem.prominentHoverBackground": "#CC6549",
-        "statusBar.border": "#0000",
+
         "titleBar.activeBackground": "#3D3A33",
         "titleBar.activeForeground": "#D4CEB6",
         "titleBar.inactiveBackground": "#3D3A33",
@@ -224,6 +232,7 @@
         "minimap.warningHighlight": "#CC6549",
         "minimap.background": "#0000",
         "minimap.selectionOccurrenceHighlight": "#ADA893",
+        
         "minimapGutter.addedBackground": "#ADA893",
         "minimapGutter.modifiedBackground": "#CC6549",
         "minimapGutter.deletedBackground": "#CC6549",
